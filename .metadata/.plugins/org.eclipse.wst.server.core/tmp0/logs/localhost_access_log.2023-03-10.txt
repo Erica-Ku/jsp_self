@@ -1,0 +1,6 @@
+127.0.0.1 - - [10/Mar/2023:15:49:53 +0900] "GET / HTTP/1.1" 404 807
+127.0.0.1 - - [10/Mar/2023:16:32:30 +0900] "GET / HTTP/1.1" 404 807
+127.0.0.1 - - [10/Mar/2023:23:39:23 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:23:39:35 +0900] "GET /MustHaveJSP/08Board/List.jsp HTTP/1.1" 200 2763
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:23:39:36 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:23:40:54 +0900] "GET /MustHaveJSP/08Board/List.jsp?searchField=title&searchWord=%EC%A0%9C%EB%AA%A91 HTTP/1.1" 200 2017
